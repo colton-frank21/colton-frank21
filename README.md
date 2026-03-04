@@ -1,5 +1,6 @@
-![Header] (https://img.shields.io/badge/COMPUTER_ENGINEER-FIRMWARE_DEVELOPER-EMBEDDED_DESIGNER-CAD_MODELER-red?style=for-the-badge)
+
 <h1 align="center">
+  ![Header] (https://img.shields.io/badge/COMPUTER_ENGINEER-FIRMWARE_DEVELOPER-EMBEDDED_DESIGNER-CAD_MODELER-red?style=for-the-badge)
   Computer Engineer | Firmware Developer | Embedded Designer | Cad Modeler
 </h1> 
 
