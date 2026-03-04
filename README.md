@@ -1,0 +1,16 @@
+![Header] (https://img.shields.io/badge/COMPUTER_ENGINEER-FIRMWARE_DEVELOPER-EMBEDDED_DESIGNER-CAD_MODELER-red?style=for-the-badge)
+<h1 align="center">
+  Computer Engineer | Firmware Developer | Embedded Designer | Cad Modeler
+</h1> 
+
+I am a Computer Engineer from the University of Pittsburgh focused on embedded systems and automation. I am particularly interested low level firmware development, and the integration of hardware and software.
+
+During my final semester, I worked as the embedded systems developer and hardware designer for my senior design team. We developed a haptic feedback glove for VR applications. I engineered the embedded architecture responsible for wirelessly receiving real time data from a VR headset and driving independent haptic actuators for each finger. The project required low latency wireless communication, deterministic signal processing, and tight hardware software integration.
+
+I am driven by building systems that interact with the physical world especially automation and control platforms where reliability, timing, and efficiency are critical.
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
