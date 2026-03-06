@@ -9,8 +9,19 @@ During my final semester, I worked as the embedded systems developer and hardwar
 
 I am driven by building systems that interact with the physical world especially automation and control platforms where reliability, timing, and efficiency are critical.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
+<div class="markdown-heading" dir="auto">
+  <h1 class="heading-element" dir="auto">
+    Languages and Softwares
+  </h1>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypie/raspberrypie-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="40"/>
+  </p>
+</div>
