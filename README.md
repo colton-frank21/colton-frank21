@@ -11,7 +11,7 @@ I am driven by building systems that interact with the physical world especially
 
 <div class="markdown-heading" dir="auto">
   <h1 class="heading-element" dir="auto">
-    Languages and Softwares
+    Languages and Software
   </h1>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
