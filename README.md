@@ -19,15 +19,24 @@ I am driven by building systems that interact with the physical world especially
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+    <h1 class="heading-element" dir="auto">
+      Embedded Systems
+    </h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
-    <img src="https://cdn.simpleicons.org/solidworks" height="40"/>
-    <img src="https://cdn.simpleicons.org/onshape" height="40"/>
-    <img src="https://cdn.simpleicons.org/altiumdesigner" height="40"/>
-    <img src="https://cdn.simpleicons.org/autodesk" height="40"/>
+    <h1 class="heading-element" dir="auto">
+      PCB Design
+    </h1>
     <img src="https://cdn.simpleicons.org/autodeskeagle" height="40"/>
+    <img src="https://cdn.simpleicons.org/altiumdesigner" height="40"/>
     <img src="https://cdn.simpleicons.org/easyeda" height="40"/>
+    <h1 class="heading-element" dir="auto">
+      3D Modeling Software
+    </h1>
+    <img src="https://cdn.simpleicons.org/solidworks" height="40"/>
+    <img src="https://cdn.simpleicons.org/autodesk" height="40"/>
     <img src="https://cdn.simpleicons.org/tinkercad" height="40"/>
+    <img src="https://cdn.simpleicons.org/onshape" height="40"/>
     <h1 class="heading-element" dir="auto">
       Operating Systems 
     </h1>
