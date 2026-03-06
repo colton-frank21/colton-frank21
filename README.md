@@ -10,9 +10,6 @@ During my final semester, I worked as the embedded systems developer and hardwar
 I am driven by building systems that interact with the physical world especially automation and control platforms where reliability, timing, and efficiency are critical.
 
 <div class="markdown-heading" dir="auto">
-  <h1 class="heading-element" dir="auto">
-    Software
-  </h1>
   <p align="left">
     <h1 class="heading-element" dir="auto">
       Coding Languages
@@ -25,10 +22,12 @@ I am driven by building systems that interact with the physical world especially
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/onshape/onshape-original.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/solidworks" height="40"/>
+    <img src="https://cdn.simpleicons.org/onshape" height="40"/>
     <img src="https://cdn.simpleicons.org/altiumdesigner" height="40"/>
     <img src="https://cdn.simpleicons.org/autodesk" height="40"/>
-    <img src="https://cdn.simpleicons.org/eagle" height="40"/>
+    <img src="https://cdn.simpleicons.org/autodeskeagle" height="40"/>
+    <img src="https://cdn.simpleicons.org/easyeda" height="40"/>
+    <img src="https://cdn.simpleicons.org/tinkercad" height="40"/>
   </p>
 </div>
